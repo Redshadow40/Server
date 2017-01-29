@@ -1,5 +1,5 @@
 # Server
-Attached is my sample code for and Http Server that will accept up to 10 multiple request simulationsly.
+Attached is my sample code for a Http Server that will accept up to 10 multiple request simulationsly.
 
 You can download the jar file from the "store/" directory.
 
