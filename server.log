@@ -1,0 +1,86 @@
+Jan 28, 2017 10:30:28 PM server.Server main
+INFO: listening on port 1234
+Jan 28, 2017 10:32:16 PM server.Server$MyHandler handle
+INFO: 15 -- Request Method: POST
+Jan 28, 2017 10:32:16 PM server.Server$MyHandler handle
+INFO: 15 -- Recieved: <Request command="pudding"><ticketid>1020</ticketid></Request>
+Jan 28, 2017 10:32:16 PM server.Server$MyHandler performTask
+INFO: 15 -- Request Type: Request
+Jan 28, 2017 10:32:16 PM server.Server$MyHandler performTask
+INFO: 15 -- Command: pudding
+Jan 28, 2017 10:32:16 PM server.Server$MyHandler performTask
+INFO: 15 -- Generated xml: <Response status="bad command"><ticketid>1020</ticketid><datetime>2017-01-28 22:32:16.585</datetime></Response>
+Jan 28, 2017 10:32:16 PM server.Server$MyHandler handle
+INFO: 15 -- Response sent
+Jan 28, 2017 10:33:11 PM server.Server$MyHandler handle
+INFO: 16 -- Request Method: POST
+Jan 28, 2017 10:33:11 PM server.Server$MyHandler handle
+INFO: 16 -- Recieved: <Request command="print"><ticketid>9257</ticketid></Request>
+Jan 28, 2017 10:33:11 PM server.Server$MyHandler performTask
+INFO: 16 -- Request Type: Request
+Jan 28, 2017 10:33:11 PM server.Server$MyHandler performTask
+INFO: 16 -- Command: print
+Jan 28, 2017 10:33:13 PM server.Server$MyHandler performTask
+INFO: 16 -- Generated xml: <Response status="Successful"><ticketid>9257</ticketid><datetime>2017-01-28 22:33:13.541</datetime></Response>
+Jan 28, 2017 10:33:13 PM server.Server$MyHandler handle
+INFO: 16 -- Response sent
+Jan 28, 2017 10:33:19 PM server.Server$MyHandler handle
+INFO: 18 -- Request Method: POST
+Jan 28, 2017 10:33:19 PM server.Server$MyHandler handle
+INFO: 18 -- Recieved: <Request command="print"><ticketid>6599</ticketid></Request>
+Jan 28, 2017 10:33:19 PM server.Server$MyHandler performTask
+INFO: 18 -- Request Type: Request
+Jan 28, 2017 10:33:19 PM server.Server$MyHandler performTask
+INFO: 18 -- Command: print
+Jan 28, 2017 10:33:21 PM server.Server$MyHandler handle
+INFO: 20 -- Request Method: POST
+Jan 28, 2017 10:33:21 PM server.Server$MyHandler handle
+INFO: 20 -- Recieved: <Request command="delete"><ticketid>7796</ticketid></Request>
+Jan 28, 2017 10:33:21 PM server.Server$MyHandler performTask
+INFO: 20 -- Request Type: Request
+Jan 28, 2017 10:33:21 PM server.Server$MyHandler performTask
+INFO: 20 -- Command: delete
+Jan 28, 2017 10:33:21 PM server.Server$MyHandler performTask
+INFO: 18 -- Generated xml: <Response status="Successful"><ticketid>6599</ticketid><datetime>2017-01-28 22:33:21.761</datetime></Response>
+Jan 28, 2017 10:33:21 PM server.Server$MyHandler handle
+INFO: 18 -- Response sent
+Jan 28, 2017 10:33:23 PM server.Server$MyHandler performTask
+INFO: 20 -- Generated xml: <Response status="Successful"><ticketid>7796</ticketid><datetime>2017-01-28 22:33:23.488</datetime></Response>
+Jan 28, 2017 10:33:23 PM server.Server$MyHandler handle
+INFO: 20 -- Response sent
+Jan 28, 2017 10:33:47 PM server.Server$MyHandler handle
+INFO: 22 -- Request Method: POST
+Jan 28, 2017 10:33:47 PM server.Server$MyHandler handle
+INFO: 22 -- Recieved: <Request command="doodoo"><ticketid>1376</ticketid></Request>
+Jan 28, 2017 10:33:47 PM server.Server$MyHandler performTask
+INFO: 22 -- Request Type: Request
+Jan 28, 2017 10:33:47 PM server.Server$MyHandler performTask
+INFO: 22 -- Command: doodoo
+Jan 28, 2017 10:33:47 PM server.Server$MyHandler performTask
+INFO: 22 -- Generated xml: <Response status="bad command"><ticketid>1376</ticketid><datetime>2017-01-28 22:33:47.683</datetime></Response>
+Jan 28, 2017 10:33:47 PM server.Server$MyHandler handle
+INFO: 22 -- Response sent
+Jan 28, 2017 10:35:39 PM server.Server$MyHandler handle
+INFO: 24 -- Request Method: POST
+Jan 28, 2017 10:35:39 PM server.Server$MyHandler handle
+INFO: 24 -- Recieved: <Request command="print"><ticketid>1984</ticketid></Request>
+Jan 28, 2017 10:35:39 PM server.Server$MyHandler performTask
+INFO: 24 -- Request Type: Request
+Jan 28, 2017 10:35:39 PM server.Server$MyHandler performTask
+INFO: 24 -- Command: print
+Jan 28, 2017 10:35:41 PM server.Server$MyHandler performTask
+INFO: 24 -- Generated xml: <Response status="Successful"><ticketid>1984</ticketid><datetime>2017-01-28 22:35:41.281</datetime></Response>
+Jan 28, 2017 10:35:41 PM server.Server$MyHandler handle
+INFO: 24 -- Response sent
+Jan 28, 2017 10:35:55 PM server.Server$MyHandler handle
+INFO: 26 -- Request Method: POST
+Jan 28, 2017 10:35:55 PM server.Server$MyHandler handle
+INFO: 26 -- Recieved: <Request command="cookie"><ticketid>9783</ticketid></Request>
+Jan 28, 2017 10:35:55 PM server.Server$MyHandler performTask
+INFO: 26 -- Request Type: Request
+Jan 28, 2017 10:35:55 PM server.Server$MyHandler performTask
+INFO: 26 -- Command: cookie
+Jan 28, 2017 10:35:55 PM server.Server$MyHandler performTask
+INFO: 26 -- Generated xml: <Response status="bad command"><ticketid>9783</ticketid><datetime>2017-01-28 22:35:55.632</datetime></Response>
+Jan 28, 2017 10:35:55 PM server.Server$MyHandler handle
+INFO: 26 -- Response sent
